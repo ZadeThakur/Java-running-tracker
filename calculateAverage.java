@@ -1,6 +1,7 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
+import java.util.*
 
 public class calculateAverage {
 	static int dateToInt(String date) {
